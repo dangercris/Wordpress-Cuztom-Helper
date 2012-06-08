@@ -369,6 +369,7 @@ class Cuztom_Post_Type
 				'show_ui' 				=> true,
 				'supports' 				=> array( 'title', 'editor' ),
 				'show_in_nav_menus' 	=> true,
+				'has_archive'			=> true,
 				'_builtin' 				=> false,
 			),
 
